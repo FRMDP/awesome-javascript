@@ -33,3 +33,10 @@
 - [Egghead](https://egghead.io/) - Otra academia más, igual a las dos anteriores.
 - [Code School](https://www.codeschool.com/) - Igual que la anterior.
 - [ES6 Katas](http://es6katas.org/) - Una web con problemas específicos de ES6 para resolver en línea.
+
+### Vue.js
+- [Página oficial](https://vuejs.org/) - Página oficial con acceso a la documentación e información relativa la framework.
+- [Documentación en español](https://es-vuejs.github.io/vuejs.org/) - Trabajo en progreso. Traducción al español de la documentación oficial y la referencia de la API.
+- [Vue router](https://router.vuejs.org/) - Página oficial de la documentación del router. Español entre los lenguajes traducidos.
+- [Vuex](https://vuex.vuejs.org/) - Página oficial de la documentación de Vuex, biblioteca para el manejo de estado. Traducción al español en marcha, no disponible todavía.
+- [Vuecasts](https://laracasts.com/series/learn-vue-2-step-by-step) - Excelente curso de video tutoriales explicando paso a paso todas las características de Vue.js.
